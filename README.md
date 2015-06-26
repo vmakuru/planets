@@ -1,2 +1,2 @@
 # planets
-This is the README file with all the brains behind the work
+This is all the brains behind the work
